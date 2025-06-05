@@ -248,4 +248,7 @@ source "drivers/watchdog_cpu_ctx/Kconfig"
 
 source "drivers/watchdogtest/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
